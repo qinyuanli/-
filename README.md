@@ -1,2 +1,19 @@
-# -
-一个基于Vue的毕设，个人博客系统，前后端分离，前端框架用Vue搭建，nodejs搭建服务器，数据库用的mongdb
+# blog-admin
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
